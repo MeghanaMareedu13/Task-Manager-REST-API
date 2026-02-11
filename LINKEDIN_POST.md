@@ -23,8 +23,6 @@ It’s modern, incredibly fast, and leverages Python type hints to provide autom
 **The Bigger Picture:**
 Building APIs like this is how we connect frontends to backends, mobile apps to data, and business needs to technical reality. It’s a core skill for any Software Engineer or Data Professional.
 
-🔗 **Explore the API code here:** [Add your GitHub link]
-
 **Recruiters:** I’m demonstrating my proficiency in backend development, API design, and database integration. Let's talk about how I can bring these skills to your team!
 
 **FastAPI or Flask? What’s your backend preference?** 👇
